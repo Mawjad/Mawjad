@@ -15,7 +15,7 @@
 
 ### Projects / To-Do
 - CHSH Inequality | Qiskit
-- Advent of Code | 2015 - 2022 | Lua -> Python -> Lisp
+- Advent of Code | 2015 - 2022 | Lua / Python -> Scheme / Lean
 - Manim Quickstart
 - Generative Bansai Trees / Automata
 - Mess with LLaMA Models
