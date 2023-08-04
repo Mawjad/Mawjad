@@ -14,9 +14,8 @@
 - Python (via PyMoocfi)
 
 ### Projects / To-Do
-- CHSH Inequality | Qiskit
+- Prove CHSH Inequality | Learn Qiskit
 - Advent of Code | 2015 - 2022 | Lua / Python -> Scheme / Lean
-- Manim Quickstart
-- Generative Bansai Trees / Automata
-- Mess with LLaMA Models
-- Zettelkesten Notes App w/LLM integration
+- Manim Quickstart | Learn how to Animate w/Code
+- Generative Bansai Trees / Neural Automata / 'Game of Life'
+- Zettelkesten Notes App w/LLM integration | 'Zettelklein' / 'Memex'
