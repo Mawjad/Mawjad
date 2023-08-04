@@ -1,4 +1,4 @@
-### Hi there <img align=center src="https://user-images.githubusercontent.com/26017543/213809353-c908d93c-3dff-4694-9d13-e0e5cbdb879c.png" alt="Waving Hand" width="36" height="36" /> | Just getting started
+### Hi there <img align=center src="https://user-images.githubusercontent.com/26017543/213809353-c908d93c-3dff-4694-9d13-e0e5cbdb879c.png" alt="Waving Hand" width="36" height="36" />  Just getting started
 
 **Aspiring Computational Neuroscientist / Indie Game Dev <img  align=center src="https://user-images.githubusercontent.com/26017543/213809364-ed620f4b-dff2-4fef-9221-b831eb6a9502.png" alt="Brain" width="36" height="36" /> <img align=center src="https://user-images.githubusercontent.com/26017543/213809357-1687c2d7-8c88-47af-a9be-9110b1d9c10a.png" alt="Party Popper" width="36" height="36"/>**
 
