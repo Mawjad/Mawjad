@@ -10,7 +10,7 @@
 
 ### Currently Learning
 - Structure and Interpretation of Computer Programs (Lisp/Scheme)
-- Lua (via Love2d)
+- Godot Game Engine
 - Python (via PyMoocfi)
 
 ### Projects / To-Do
