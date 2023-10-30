@@ -10,12 +10,12 @@
 
 ### Currently Learning
 - Structure and Interpretation of Computer Programs (Lisp/Scheme)
-- Godot Game Engine
-- Python (via PyMoocfi)
+- GDscript | Godot v4.1.2
 
 ### Projects / To-Do
-- Prove CHSH Inequality | Learn Qiskit
-- Advent of Code | 2015 - 2022 | Lua / Python -> Scheme / Lean
-- Manim Quickstart | Learn how to Animate w/Code
+- GodotPilotProject
+- Advent of Code | 2015 - 2022 | GDscript -> Scheme -> Rust?
+- Mess with Godot Rust Bindings (consider using Bevy instead)
+- Prove CHSH Inequality | Qiskit
 - Generative Bansai Trees / Neural Automata / 'Game of Life'
 - Zettelkesten Notes App w/LLM integration | 'Zettelklein' / 'Memex'
