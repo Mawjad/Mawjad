@@ -10,7 +10,7 @@
 
 ### Currently Learning
 - Structure and Interpretation of Computer Programs (Lisp/Scheme)
-- GDscript | Godot v4.1.2
+- GDscript | Godot v4.2
 
 ### Projects / To-Do
 - GodotPilotProject
