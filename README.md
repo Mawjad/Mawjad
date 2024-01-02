@@ -12,7 +12,7 @@
 
 -> Zettelkesten Notes App w/LLM integration | 'Zettelklein' / 'Memex'
 
--> Possible Language Progression? | GDScript/Lisp -> Julia/Zig/Rust?
+-> Possible Language Progression? | GDScript/Lisp/C -> Julia/Zig/Rust?
 
 <div align="center">  
   <img width="100%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mawjad&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
