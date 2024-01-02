@@ -1,12 +1,10 @@
-### Currently Learning ###
+### Current Work ###
 
 -> Structure and Interpretation of Computer Programs (Lisp/Scheme)
 
 -> GDscript | Godot v4.2
 
--> Computer Engineering | Associates' Degree
-
-### Future Projects ###
+### In Future ###
 
 -> Prove CHSH Inequality | Qiskit
 
