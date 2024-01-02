@@ -1,6 +1,6 @@
 ### Current Work / Learning ###
 
--> Structure and Interpretation of Computer Programs (Lisp/Scheme)
+-> Lisp / Scheme | Structure and Interpretation of Computer Programs / The Little Schemer / The Little LISPer
 
 -> GDScript | Godot v4.2 Pilot Project
 
