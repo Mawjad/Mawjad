@@ -1,4 +1,4 @@
-### Current Work ###
+### Current Work / Learning ###
 
 -> Structure and Interpretation of Computer Programs (Lisp/Scheme)
 
