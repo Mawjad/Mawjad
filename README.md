@@ -1,4 +1,4 @@
-Currently Learning
+### Currently Learning ###
 
 -> Structure and Interpretation of Computer Programs (Lisp/Scheme)
 
@@ -6,7 +6,8 @@ Currently Learning
 
 -> Computer Engineering | Associates' Degree
 
-Future Projects
+### Future Projects ###
+
 -> Prove CHSH Inequality | Qiskit
 
 -> Generative Bansai Trees / Neural Automata / 'Game of Life'
