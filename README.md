@@ -1,6 +1,6 @@
 ### Current Work / Learning ###
 
--> Lisp | Structure and Interpretation of Computer Programs / The Little Schemer / The Little LISPer
+-> Lisp/Scheme | SICP / The Little Schemer / The Little LISPer
 
 -> GDScript | Godot v4.2 Pilot Project
 
@@ -11,8 +11,6 @@
 -> Generative Bansai Trees / Neural Automata / 'Game of Life'
 
 -> Zettelkesten Notes App w/LLM integration | 'Zettelklein' / 'Memex'
-
--> Possible Language Progression? | GDScript/Lisp/C -> Julia/Zig/Rust?
 
 <div align="center">  
   <img width="100%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mawjad&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
