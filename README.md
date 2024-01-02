@@ -2,7 +2,7 @@
 
 -> Structure and Interpretation of Computer Programs (Lisp/Scheme)
 
--> GDscript | Godot v4.2
+-> GDScript | Godot v4.2 Pilot Project
 
 ### In Future ###
 
