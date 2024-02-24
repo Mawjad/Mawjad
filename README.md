@@ -2,7 +2,7 @@
 
 -> Lisp/Scheme | SICP / The Little Schemer / The Little LISPer
 
--> GDScript | Godot v4.2 Pilot Project
+-> GDScript | Godot v4.2 Pilot Project | Private for now - will make Prototype Demo version Public
 
 ### In Future ###
 
