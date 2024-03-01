@@ -1,10 +1,11 @@
 ### Current Work / Learning ###
 
--> Lisp/Scheme | SICP / The Little Schemer / The Little LISPer
+-> GoPilot | Just messing with Go/Raylib | will likely do the same for Scheme/Zig/Rust moving forward; want to explore plenty
 
 -> GDScript | Godot v4.2 Pilot Project | Private for now - will make Prototype Demo version Public
 
 ### In Future ###
+-> Lisp/Scheme | SICP / The Little Schemer / The Little LISPer
 
 -> Prove CHSH Inequality | Qiskit
 
