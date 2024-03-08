@@ -4,6 +4,8 @@
 
 -> GDScript | Godot v4.2 Pilot Project | Private for now - will make Prototype Demo version Public
 
+-> Neocities Page | Initial 'Lexicon' / 'Memex'
+
 ### In Future ###
 -> Lisp/Scheme | SICP / The Little Schemer / The Little LISPer
 
