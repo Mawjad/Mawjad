@@ -2,7 +2,7 @@
 
 -> GoPilot | Just messing with Go/Raylib | will likely do the same for Scheme/Zig/Rust moving forward; want to explore plenty before settling on Stack for Game Dev
 
--> GDScript | Godot v4.2 Pilot Project | Private for now - will make Prototype Demo version Public after removing placeholder assets
+-> GDScript | Godot v4.2 Pilot Project | Private for now - will make Prototype Demo version Public
 
 ### In Future ###
 -> Lisp/Scheme | SICP / The Little Schemer / The Little LISPer
