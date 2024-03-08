@@ -11,7 +11,9 @@
 
 -> Generative Bansai Trees / Neural Automata / 'Game of Life'
 
--> Zettelkesten Notes App w/LLM integration | 'Zettelklein' / 'Memex'
+-> Flocking Algorithm
+
+-> Zettelkesten Notes App w/LLM integration | 'Zettelklein' / 'Memex' / 'Lexicon'
 
 <div align="center">  
   <img width="100%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mawjad&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
