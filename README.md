@@ -1,4 +1,6 @@
 ### WIP ###
+-> Nix Env | Custom Options / Special Args
+
 -> Raylib | C / Racket / > Go < / Zig / Odin / Rust / Lean4 | No particular order
 
 -> Godot v4.2.2 | https://mawjad.itch.io/godotpilot | pass: maw
