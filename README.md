@@ -1,4 +1,4 @@
-### WIP ###
+### WIP / Learning ###
 -> Nix Env | DevShells
 
 -> Raylib | C / Racket / > Go < / Zig / Odin / Lean4 | No particular order
