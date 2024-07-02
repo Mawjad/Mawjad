@@ -7,8 +7,6 @@
 
 -> Godot v4.2.2 | https://mawjad.itch.io/godotpilot | pass: maw
 
--> Neocities Page | https://themanyman.neocities.org
-
 <div align="center">  
   <img width="100%" height="155px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mawjad&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
