@@ -11,10 +11,6 @@
   <img width="100%" height="155px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mawjad&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
-<div align="center">
-  <img width="100%" height="205px" src="https://github-profile-trophy.vercel.app/?username=Mawjad&layout=compact&hide_border=false&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" alt="GitHub Trophy" />
-</div>
-
 ### Planned ###
 -> Lisp/Scheme | SICP / The Little Schemer / The Little LISPer
 
