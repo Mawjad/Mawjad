@@ -1,23 +1,40 @@
-### WIP / Learning ###
--> Nix Env | DevShells
+<div align="center">
 
--> Raylib | C / Racket / > Go < / Zig / Odin / Lean4 | No particular order
+# Mλw
 
--> Bevy & Macroquad
+*Active work lives in private repositories.*  
 
--> Godot v4.2.2 | https://mawjad.itch.io/godotpilot | pass: maw
-
-<div align="center">  
-  <img width="100%" height="155px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mawjad&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
-### Planned ###
--> Lisp/Scheme | SICP / The Little Schemer / The Little LISPer
+---
 
--> Prove CHSH Inequality | Qiskit
+#### Currently
+`ZONE` · `dotfiles` · `Memex`
 
--> Generative Bansai Trees / Neural Automata / 'Game of Life'
+#### High Familiarity/Confidence
+GDScript · Nix
 
--> Flocking Algorithm / Boids
+#### Medium Familiarity/Confidence
+Lua · C · Go · JS/HTML/CSS
 
--> Zettelkesten Notes App w/LLM integration | 'Zettelklein' / 'Memex' / 'Lexicon'
+#### Low Familiarity/Confidence
+Scheme · Rust · Julia · Lean
+
+---
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Mawjad&show_icons=true&hide_border=true&hide_title=true&hide_rank=true&icon_color=00bfbf&text_color=8b949e&bg_color=0d1117&hide=contribs" height="120px" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mawjad&layout=compact&hide_border=true&title_color=00bfbf&text_color=8b949e&bg_color=0d1117&langs_count=6" height="120px" />
+
+</div>
+
+---
+
+<div align="center">
+
+`SICP` → `polyglot probes` → `rendering primitives` → `environment as architecture` → `?`
+
+<sub>webring · [colonq.computer](https://pub.colonq.computer/)</sub>
+
+</div>
