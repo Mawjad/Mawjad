@@ -35,6 +35,6 @@ Scheme · Rust · Julia · Lean
 
 `SICP` → `polyglot probes` → `rendering primitives` → `environment as architecture` → `?`
 
-<sub>webring · [colonq.computer](https://pub.colonq.computer/)</sub>
+<sub>[itch.io](https://mawjad.itch.io/) · [neocities](https://themanyman.neocities.org/) · [~mawjad](https://pub.colonq.computer/~mawjad/)</sub>
 
 </div>
